@@ -1,0 +1,6 @@
+{
+  "name": "CRM - Customer Relationship Management",
+  "description": "Full-stack enterprise CRM platform implementing the 9-stage lead-to-customer lifecycle, communication history, sales pipelines, and follow-up scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
